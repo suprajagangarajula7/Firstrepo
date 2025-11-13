@@ -7,11 +7,3 @@ function isPrime(num){
     return false;
 }
 console.log(isPrime(5))
-
-function evenodd(num){
-    if (num %2 === 0){
-        return true;
-    } else {
-        return false;
-    }
-}
